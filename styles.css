@@ -1,0 +1,90 @@
+
+
+.josefin-sans {
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+}
+.open-sans {
+
+        font-family: "Open Sans", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 400;
+        font-style: normal;
+      
+}
+.secondary-btn {
+    color: #262626;
+    background-color: #C2E4FF;
+}
+.primary-btn {
+    color: #262626;
+    background-color: #58A7C6;
+
+}
+img {
+    object-fit: cover;
+    width: 300px;
+    height: 300px;
+}
+.wrap {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+#buttons > h4 {
+    padding: 0rem 0rem 1rem 0rem;
+}
+button {
+    transition: 0.2s all ease-in-out;
+}
+button:hover {
+    transform: translateY(-3px);
+}
+button:active {
+    transform: scale(0.95);
+}
+
+a:hover {
+text-decoration: underline;
+text-decoration-color: #FB8937;
+}
+
+
+.color1 {
+    background-color: #FB8937;
+    
+}
+.color2 {
+    background-color: #fafafa;
+
+}
+.color3 {
+    background-color: #FFFF70;
+
+}
+.color4 {
+background-color: #C2E4FF;
+}
+.color5 {
+    background-color: #58A7C6;
+}
+
+button {
+    color: #262626;
+    border: none;
+    border-radius: 8px;
+    padding: 1rem 2rem;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
+p {
+    color: #262626;
+}
+a {
+    text-decoration: none;
+    color: #262626;
+}
